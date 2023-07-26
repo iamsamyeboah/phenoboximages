@@ -1,2 +1,3 @@
 # phenoboximages
-Three season tomato images
+tomato images
+fruit length and width
